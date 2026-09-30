@@ -1,0 +1,41 @@
+# Unreal generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userprefs
+
+# IDEs
+.idea/
+.vscode/
+*.sln.DotSettings.user
+
+# Build artifacts
+*.opensdf
+*.sdf
+*.cache
+*.pdb
+*.obj
+*.ipch
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Unreal local files
+*.tmp
+*.log
+
+# Crash reports
+crashinfo-*
+
+# Optional local build folders
+Build/Receipts/
